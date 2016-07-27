@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" ng-app="LimitedAps" ng-controller="LACtrl">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title ng-cloak>{{title}}</title>
+<title ng-cloak>{{title}} changed</title>
 
 <base href="http://localhost/limitedads/" />
 
